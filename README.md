@@ -8,6 +8,10 @@
 
 #### Overview of the Project
 
+**Name of the project:** 
+**Natural Language Processing using Sentimental analysis with Text classification**
+
+
 This sentiment analysis program is designed to assess the emotional tone of user-provided text using Natural Language Processing (NLP). It employs the VADER (Valence Aware Dictionary and Sentiment Reasoner) tool, which is particularly effective for analyzing sentiments in social media and short text formats.
 
 #### Key Components
